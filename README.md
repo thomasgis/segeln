@@ -1,0 +1,2 @@
+# segeln
+gpx Auswertung 
