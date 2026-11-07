@@ -3,7 +3,7 @@ import gpxpy
 from geopy.distance import great_circle
 
 # --- EINSTELLUNGEN ---
-INPUT_GPX = 'ihre_datei.gpx'
+INPUT_GPX = 'track_pints.gpx'
 OUTPUT_CSV = 'sog_auswertung.csv'
 SMOOTHING_WINDOW = 3  # Anzahl der Punkte für den gleitenden Mittelwert gegen GPS-Spikes
 
